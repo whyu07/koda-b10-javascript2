@@ -1,17 +1,15 @@
-// we.are.the.best
-const Koda = { 
-    we : {
+const we = { 
         are : {
             the : {
                 best : "koda"
             }
         }
-    }
+    
 }
 
-console.log(Koda.we.are.the.best);
+console.log(we.are.the.best);
 
-// hello.world
+// helo
 const hello = {
     world : "Hello World"
 }
