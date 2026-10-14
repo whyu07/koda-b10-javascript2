@@ -1,1 +1,1 @@
-# koda-b10-javascript2
+Program Mengakses indeks pada Tipe data object
